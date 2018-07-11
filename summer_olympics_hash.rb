@@ -11,10 +11,10 @@ summer_olympics = {:Sydney => "2000", :Athens => "2004", :Beijing => "2008", :Lo
 new_location = :Atlanta
 new_year = "1996"
 summer_olympics[new_location] = new_year
-returns summer_olympics
+
 end
 
-puts add_a_key_value_pair
+return add_a_key_value_pair
 
 
 def iterate_through_hash
