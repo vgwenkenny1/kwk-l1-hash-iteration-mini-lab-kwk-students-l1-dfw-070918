@@ -6,8 +6,8 @@ end
 puts create_olympics_hash
 
 def add_a_key_value_pair
-
-
+ new_hash = create_olympics_hash
+ new_hash[:Atlanta]
 end
 
 push add_a_key_value_pair
