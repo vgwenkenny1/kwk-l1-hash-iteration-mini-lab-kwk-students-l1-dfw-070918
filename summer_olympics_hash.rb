@@ -6,11 +6,7 @@ end
 puts create_olympics_hash
 
 def add_a_key_value_pair
-summer_olympics = {:Sydney => "2000", :Athens => "2004", :Beijing => "2008", :London => "2012"}
 
-new_location = :Atlanta
-new_year = "1996"
-summer_olympics[new_location] = new_year
 
 end
 
