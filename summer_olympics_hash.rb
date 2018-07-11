@@ -7,6 +7,9 @@ end
 def add_a_key_value_pair
 summer_olympics = {:Sydney => "2000", :Athens => "2004", :Beijing => "2008", :London => "2012"}
 
+new_location: 
+
+
 end
 
 def iterate_through_hash
