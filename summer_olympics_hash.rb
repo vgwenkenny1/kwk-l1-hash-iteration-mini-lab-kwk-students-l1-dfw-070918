@@ -7,10 +7,20 @@ puts create_olympics_hash
 
 def add_a_key_value_pair
  new_hash = create_olympics_hash
- new_hash[:Atlanta]
+ new_hash[:Atlanta] = "1996"
+ new_hash
 end
 
-push add_a_key_value_pair
+
+
+
+
+
+
+
+
+
+
 
 
 def iterate_through_hash
