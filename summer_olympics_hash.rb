@@ -14,7 +14,7 @@ summer_olympics[new_location] = new_year
 
 end
 
-return add_a_key_value_pair
+push add_a_key_value_pair
 
 
 def iterate_through_hash
