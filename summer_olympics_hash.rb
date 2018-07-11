@@ -11,6 +11,8 @@ new_location = :Atlanta
 new_year = "1996"
 summer_olympics[new_location] = new_year
 
+puts summer_olympics
+
 
 end
 
