@@ -12,7 +12,7 @@ new_year = "1996"
 summer_olympics[new_location] = new_year
 end
 
-
+puts add_a_key_value_pair
 
 
 def iterate_through_hash
